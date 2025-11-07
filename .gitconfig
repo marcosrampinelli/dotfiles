@@ -1,0 +1,5 @@
+[user]
+	email = marcos.rampinelli@mercedes-benz.com
+	name = MARCOS RAMPINELLI
+	useConfigOnly = true
+	signingkey = /Users/rampimar/.ssh/ed25519_marcosrampinelli_mb_mac_air.pub
