@@ -1,23 +1,14 @@
 # MacOS
 ## Setup
-1. Install brew
+1. Install the whole thing at once
+   
 ```
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+git clone https://github.com/marcosrampinelli/dotfiles.git
 
-echo >> /Users/rampimar/.zshenv
-echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/rampimar/.zshenv
-eval "$(/opt/homebrew/bin/brew shellenv)"
-
+yadm bootstrap
 ```
 
-2. Install basic packages
-- YADM
-- GIT
-
-```
-brew install yadm git≤
-```
-
+That's all!!!
 
 
 
