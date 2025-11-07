@@ -1,0 +1,1 @@
+/Users/rampimar/.config/zsh/.zshenv
